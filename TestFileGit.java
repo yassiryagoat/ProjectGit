@@ -1,6 +1,6 @@
 public class TestFileGit{
 	public static void main(String [] argvs){
 		system.out.println("Hello Git ,Doing good?");
-		System.outprintln("Making progress");
+		System.outprintln("im in new branch");
 	}
 }
